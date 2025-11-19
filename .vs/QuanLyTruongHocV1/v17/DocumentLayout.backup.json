@@ -1,0 +1,567 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\ui\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:ui\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\ui\\forms\\loginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:ui\\forms\\loginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\ui\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:ui\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\ui\\forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:ui\\forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\ui\\forms\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:ui\\forms\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\application\\auth\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:application\\auth\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\application\\auth\\appsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:application\\auth\\appsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\infrastructure\\ef\\seeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:infrastructure\\ef\\seeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\ui\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:ui\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\infrastructure\\ef\\dbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:infrastructure\\ef\\dbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\infrastructure\\ef\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:infrastructure\\ef\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\infrastructure\\ef\\schooldbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:infrastructure\\ef\\schooldbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\application\\services\\giaovienservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:application\\services\\giaovienservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\application\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:application\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\migrations\\20251023165616_qlth1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:migrations\\20251023165616_qlth1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\migrations\\20251107144101_qlth7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:migrations\\20251107144101_qlth7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\migrations\\schooldbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:migrations\\schooldbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\ui\\forms\\giaovienform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:ui\\forms\\giaovienform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\ui\\forms\\hocsinhform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:ui\\forms\\hocsinhform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\ui\\forms\\hocsinhform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:ui\\forms\\hocsinhform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\application\\services\\hocsinhservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:application\\services\\hocsinhservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\ui\\forms\\adminform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:ui\\forms\\adminform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\ui\\forms\\giaovienform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:ui\\forms\\giaovienform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\domain\\extensions\\hockyextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:domain\\extensions\\hockyextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\domain\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:domain\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\domain\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:domain\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\domain\\khoimon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:domain\\khoimon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\domain\\giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:domain\\giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\domain\\diemthanhphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:domain\\diemthanhphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\domain\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:domain\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\domain\\extensions\\diemthanhphanextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:domain\\extensions\\diemthanhphanextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|c:\\users\\letha\\downloads\\quanlytruonghocv1\\domain\\hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BB144D-BD99-4AD7-874C-12B0EE34C330}|QuanLyTruongHocV1.csproj|solutionrelative:domain\\hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 293,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.resx",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\UI\\Forms\\LoginForm.resx",
+              "RelativeDocumentMoniker": "UI\\Forms\\LoginForm.resx",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\UI\\Forms\\LoginForm.resx",
+              "RelativeToolTip": "UI\\Forms\\LoginForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-14T03:45:48.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\UI\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "UI\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\UI\\Forms\\LoginForm.cs [Design]",
+              "RelativeToolTip": "UI\\Forms\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:45:45.868Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DbConfig.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Infrastructure\\EF\\DbConfig.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EF\\DbConfig.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Infrastructure\\EF\\DbConfig.cs",
+              "RelativeToolTip": "Infrastructure\\EF\\DbConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:49:34.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppSession.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Application\\Auth\\AppSession.cs",
+              "RelativeDocumentMoniker": "Application\\Auth\\AppSession.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Application\\Auth\\AppSession.cs",
+              "RelativeToolTip": "Application\\Auth\\AppSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:48:52.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Authorization.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Application\\Auth\\Authorization.cs",
+              "RelativeDocumentMoniker": "Application\\Auth\\Authorization.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Application\\Auth\\Authorization.cs",
+              "RelativeToolTip": "Application\\Auth\\Authorization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T02:14:29.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\UI\\Forms\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\Forms\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\UI\\Forms\\LoginForm.Designer.cs",
+              "RelativeToolTip": "UI\\Forms\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAAAO8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:36:22.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Infrastructure\\EF\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EF\\SchoolDbContext.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Infrastructure\\EF\\SchoolDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\EF\\SchoolDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:21:53.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\UI\\Forms\\AdminForm.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\Forms\\AdminForm.Designer.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\UI\\Forms\\AdminForm.Designer.cs*",
+              "RelativeToolTip": "UI\\Forms\\AdminForm.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:07:40.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\UI\\Forms\\AdminForm.cs",
+              "RelativeDocumentMoniker": "UI\\Forms\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\UI\\Forms\\AdminForm.cs [Design]*",
+              "RelativeToolTip": "UI\\Forms\\AdminForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:57:56.617Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SchoolDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Infrastructure\\EF\\SchoolDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EF\\SchoolDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Infrastructure\\EF\\SchoolDbContextFactory.cs",
+              "RelativeToolTip": "Infrastructure\\EF\\SchoolDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:06:50.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Seeder.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Infrastructure\\EF\\Seeder.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EF\\Seeder.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Infrastructure\\EF\\Seeder.cs",
+              "RelativeToolTip": "Infrastructure\\EF\\Seeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:06:50.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GiaoVienService.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Application\\Services\\GiaoVienService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\GiaoVienService.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Application\\Services\\GiaoVienService.cs",
+              "RelativeToolTip": "Application\\Services\\GiaoVienService.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:27:15.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Application\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Application\\Services\\AdminService.cs",
+              "RelativeToolTip": "Application\\Services\\AdminService.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAAAIQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:27:16.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Theme.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\UI\\Theme.cs",
+              "RelativeDocumentMoniker": "UI\\Theme.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\UI\\Theme.cs",
+              "RelativeToolTip": "UI\\Theme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T07:58:32.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:36:51.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20251023165616_qlth1.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Migrations\\20251023165616_qlth1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251023165616_qlth1.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Migrations\\20251023165616_qlth1.cs",
+              "RelativeToolTip": "Migrations\\20251023165616_qlth1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:12:28.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20251107144101_qlth7.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Migrations\\20251107144101_qlth7.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251107144101_qlth7.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Migrations\\20251107144101_qlth7.cs",
+              "RelativeToolTip": "Migrations\\20251107144101_qlth7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:41:02.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SchoolDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Migrations\\SchoolDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\SchoolDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Migrations\\SchoolDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\SchoolDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAEQBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:12:32.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GiaoVienForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\UI\\Forms\\GiaoVienForm.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\Forms\\GiaoVienForm.Designer.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\UI\\Forms\\GiaoVienForm.Designer.cs",
+              "RelativeToolTip": "UI\\Forms\\GiaoVienForm.Designer.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:07:57.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HocSinhForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\UI\\Forms\\HocSinhForm.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\Forms\\HocSinhForm.Designer.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\UI\\Forms\\HocSinhForm.Designer.cs",
+              "RelativeToolTip": "UI\\Forms\\HocSinhForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:36:26.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HocSinhForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\UI\\Forms\\HocSinhForm.cs",
+              "RelativeDocumentMoniker": "UI\\Forms\\HocSinhForm.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\UI\\Forms\\HocSinhForm.cs [Design]",
+              "RelativeToolTip": "UI\\Forms\\HocSinhForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:36:58.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HocSinhService.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Application\\Services\\HocSinhService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\HocSinhService.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Application\\Services\\HocSinhService.cs",
+              "RelativeToolTip": "Application\\Services\\HocSinhService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:36:45.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminForm.resx",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\UI\\Forms\\AdminForm.resx",
+              "RelativeDocumentMoniker": "UI\\Forms\\AdminForm.resx",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\UI\\Forms\\AdminForm.resx*",
+              "RelativeToolTip": "UI\\Forms\\AdminForm.resx*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-11T15:36:12.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GiaoVienForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\UI\\Forms\\GiaoVienForm.cs",
+              "RelativeDocumentMoniker": "UI\\Forms\\GiaoVienForm.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\UI\\Forms\\GiaoVienForm.cs [Design]",
+              "RelativeToolTip": "UI\\Forms\\GiaoVienForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:07:50.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DiemThanhPhan.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Domain\\DiemThanhPhan.cs",
+              "RelativeDocumentMoniker": "Domain\\DiemThanhPhan.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Domain\\DiemThanhPhan.cs",
+              "RelativeToolTip": "Domain\\DiemThanhPhan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:59:57.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "KhoiMon.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Domain\\KhoiMon.cs",
+              "RelativeDocumentMoniker": "Domain\\KhoiMon.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Domain\\KhoiMon.cs",
+              "RelativeToolTip": "Domain\\KhoiMon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T04:00:01.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HocKyExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Domain\\Extensions\\HocKyExtensions.cs",
+              "RelativeDocumentMoniker": "Domain\\Extensions\\HocKyExtensions.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Domain\\Extensions\\HocKyExtensions.cs",
+              "RelativeToolTip": "Domain\\Extensions\\HocKyExtensions.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:45:42.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DiemThanhPhanExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Domain\\Extensions\\DiemThanhPhanExtensions.cs",
+              "RelativeDocumentMoniker": "Domain\\Extensions\\DiemThanhPhanExtensions.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Domain\\Extensions\\DiemThanhPhanExtensions.cs",
+              "RelativeToolTip": "Domain\\Extensions\\DiemThanhPhanExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:45:01.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HocSinh.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Domain\\HocSinh.cs",
+              "RelativeDocumentMoniker": "Domain\\HocSinh.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Domain\\HocSinh.cs",
+              "RelativeToolTip": "Domain\\HocSinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:30:00.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GiaoVien.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Domain\\GiaoVien.cs",
+              "RelativeDocumentMoniker": "Domain\\GiaoVien.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Domain\\GiaoVien.cs",
+              "RelativeToolTip": "Domain\\GiaoVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:29:55.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Nguoi.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Domain\\Nguoi.cs",
+              "RelativeDocumentMoniker": "Domain\\Nguoi.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Domain\\Nguoi.cs",
+              "RelativeToolTip": "Domain\\Nguoi.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:26:48.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Diem.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Domain\\Diem.cs",
+              "RelativeDocumentMoniker": "Domain\\Diem.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Domain\\Diem.cs",
+              "RelativeToolTip": "Domain\\Diem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:26:41.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Domain\\Admin.cs",
+              "RelativeDocumentMoniker": "Domain\\Admin.cs",
+              "ToolTip": "C:\\Users\\letha\\Downloads\\QuanLyTruongHocV1\\Domain\\Admin.cs",
+              "RelativeToolTip": "Domain\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:26:39.949Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 151,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
